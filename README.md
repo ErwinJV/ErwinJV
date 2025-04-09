@@ -38,8 +38,9 @@
    <img src="https://github.com/user-attachments/assets/19fc2896-683b-427a-8aa5-9557e884f452" width="80" /> 
    <!--Material UI-->
    <img src="https://github.com/user-attachments/assets/a153b4ea-5936-4397-974b-f3f481ac4a41" width="80" /> 
-   <!--Tailwins-->
+   <!--Tailwind-->
    <img src="https://github.com/user-attachments/assets/620bc4e6-f642-4db0-b6b8-d1b8877b836f" width="80" /> 
- 
+   <!--NestJS-->
+  <img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" />
 </div>
 
