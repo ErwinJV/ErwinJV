@@ -41,6 +41,6 @@
    <!--Tailwind-->
    <img src="https://github.com/user-attachments/assets/620bc4e6-f642-4db0-b6b8-d1b8877b836f" width="80" /> 
    <!--NestJS-->
-  <img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" />
+  <img src="https://nestjs.com/img/logo-small.svg" width="80" />
 </div>
 
